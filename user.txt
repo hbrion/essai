@@ -1,0 +1,4 @@
+User [id=0, login=Troefderf, nom=mercredi]
+User [id=1, login=Nuage, nom=nuage]
+User [id=2, login=madczecre, nom=rev]
+User [id=3, login=trcerger, nom=adea]
